@@ -1,2 +1,3 @@
-Note
-Note Again
+Application Target
+1. Single Page Application
+2. JWT and Passport

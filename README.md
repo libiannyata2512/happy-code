@@ -6,3 +6,7 @@ Aplikasi ini bertujuan untuk membantu masyarakat dalam kegiatan sehari-hari.
 - [Real-time event broadcasting](https://localhost:8000).
 
 Libian Nyata.
+
+## Licence
+
+Syarat dan Ketententuan :
